@@ -12,3 +12,6 @@ Step 2: Go inside the project folder, open cmd then type currencyConverter.py an
 OR
 
 Step 2: Simply, double click the currencyConverter.py file and you are ready to go.
+
+
+![Capture2](https://user-images.githubusercontent.com/20369800/78735226-e0e64080-7967-11ea-8bc4-2f9447b6fd3e.png)
